@@ -4,14 +4,16 @@
 
 
 
-https://github.com/xxxanikixxx/portfolio/assets/112359121/a25fdbc2-aad7-471a-b079-5bf6beeb65d9
+https://github.com/xxxanikixxx/portfolio/assets/112359121/28011df3-de56-4c55-94df-4a27f7460b99
+
+
 
 
 
 
 粒子同士が当たり判定を持っている。
 
-10年前の端末（nexus7(2013)）で約3万2千点の粒子のシミュレーションを60FPSで動かすことが出来る。
+10年前の端末（nexus7(2013)）で約3万2千点の粒子のシミュレーションを60FPSで動かすことが出来た。
 
 高速化するに当たって工夫した点
  - Android Native Development Kit (Android NDK) を使ってバイナリコードで直接動かす
