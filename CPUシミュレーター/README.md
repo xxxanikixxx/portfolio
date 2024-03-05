@@ -2,7 +2,10 @@
 16ビットのMIPSアーキテクチャCPUのアセンブラのエディタ兼デバッカー
 
 
-https://github.com/xxxanikixxx/portfolio/assets/112359121/5aae0e34-25b7-45a1-b9f1-112b2ba7b2b2
+
+https://github.com/xxxanikixxx/portfolio/assets/112359121/5945e244-d95b-4b93-9b70-34575953fab7
+
+
 
 
 授業で16ビットのMIPSアーキテクチャCPUを設計する実験があり、その実験の最後に「設計したCPUで高速に動作する、ある問題を解くプログラムを作成せよ」という課題がでます。
